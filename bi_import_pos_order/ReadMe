@@ -1,0 +1,11 @@
+Version Info:-
+12.0.0.1:-
+import order all entries generate in same order
+
+=>02-04-2019 : 12.0.0.2 : Create index according to new format , Improve manifest file.
+
+12.0.03 : fixed issue of single line import
+
+
+
+12.0.0.4 :  added taxes from csv/xls
